@@ -1,0 +1,7 @@
+﻿metric,n_records
+records_after_5km_thinning,828
+records_inside_reference_raster_with_valid_data,828
+records_outside_or_nodata_reference_raster,0
+duplicate_records_removed_within_reference_raster_cell,0
+final_one_per_raster_cell_occurrences,828
+unique_reference_raster_cells,828

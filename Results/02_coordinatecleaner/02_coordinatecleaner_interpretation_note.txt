@@ -1,0 +1,6 @@
+CoordinateCleaner was applied after metadata-based global QC.
+The sea test was intentionally not applied because prior automated sea
+screening produced implausibly extensive flags in this dataset.
+ESA WorldCover screening will subsequently exclude water-context points.
+The retained table is an intermediate candidate dataset only; LULC
+screening and 5 km spatial thinning remain to be completed.

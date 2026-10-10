@@ -1,0 +1,10 @@
+test_column,n_pass,n_flagged_or_removed
+.input_row,1,3507
+.val,3508,0
+.equ,3508,0
+.zer,3508,0
+.cap,3449,59
+.cen,3496,12
+.gbf,3508,0
+.inst,3496,12
+coordinatecleaner_keep,3429,79

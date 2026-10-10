@@ -1,0 +1,9 @@
+﻿worldcover_center_code,worldcover_center_label,n_records,strict_primary_candidates,broad_sensitivity_candidates
+10.0,Tree_cover,2418,1553,1746
+20.0,Shrubland,2,2,2
+30.0,Grassland,147,0,36
+40.0,Cropland,119,0,5
+50.0,Built_up,576,0,30
+60.0,Bare_sparse_vegetation,18,0,2
+80.0,Permanent_water_bodies,147,0,3
+,Unknown_or_missing,2,0,0

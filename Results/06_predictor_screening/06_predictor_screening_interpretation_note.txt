@@ -1,0 +1,4 @@
+This step screens only bioclimatic variables and elevation for the primary future-transfer model.
+Static soil moisture, NPP, runoff, soil properties, and UV layers were excluded because they lack matched future scenario projections in this workflow.
+Final predictor selection must retain ecologically interpretable variables, avoid strong pairwise correlations, and be verified with VIF in the next step.
+The global environmental screening sample is for correlation assessment only and is not yet the final MaxEnt background sample.

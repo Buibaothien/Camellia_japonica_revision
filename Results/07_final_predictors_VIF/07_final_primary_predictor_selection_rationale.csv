@@ -1,0 +1,6 @@
+﻿predictor,variable_name,functional_dimension,selection_rationale,future_projection_status
+Bio2,Mean diurnal temperature range,Diurnal thermal variability,Retained to represent daily thermal variability while avoiding redundancy with Bio3 and Bio4.,Matched CMIP6 bioclimatic projection available
+Bio6,Minimum temperature of the coldest month,Winter cold limitation,"Retained as the directly interpretable cold-extreme variable; Bio1, Bio9 and Bio11 were excluded as redundant thermal alternatives.",Matched CMIP6 bioclimatic projection available
+Bio14,Precipitation of the driest month,Dry-season water limitation,Retained to represent dry-season water limitation; Bio17 and Bio19 were excluded because of strong correlation with Bio14.,Matched CMIP6 bioclimatic projection available
+Bio18,Precipitation of the warmest quarter,Warm-season moisture availability,Retained to represent precipitation during the warmest quarter; Bio13 and Bio16 were excluded because of strong correlation with Bio18.,Matched CMIP6 bioclimatic projection available
+Elv,Elevation,Topographic climatic context,Retained as a static topographic control. Future interpretation must not treat elevation as a changing climate predictor.,Static current elevation retained consistently

@@ -1,0 +1,7 @@
+﻿metric,n_records
+input_coordinatecleaner_candidates,3429
+records_with_center_worldcover_class,3427
+strict_natural_context_candidates,1555
+broad_natural_context_candidates,1824
+strict_tree_cover_center,1553
+strict_shrubland_center,2

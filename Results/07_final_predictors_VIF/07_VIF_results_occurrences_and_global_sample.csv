@@ -1,0 +1,11 @@
+﻿dataset,predictor,n_complete_records,R_squared_against_remaining_predictors,VIF,VIF_below_5
+final_occurrence_records,Bio2,828,0.42420713302335233,1.7367356515733927,True
+final_occurrence_records,Bio6,828,0.2903308297608719,1.4091072882073246,True
+final_occurrence_records,Bio14,828,0.1326671781051566,1.1529599419693601,True
+final_occurrence_records,Bio18,828,0.21580118584946084,1.2751868301193765,True
+final_occurrence_records,Elv,828,0.14366040651044187,1.1677610233167313,True
+global_environmental_screening_sample,Bio2,20000,0.35752806024715955,1.5564882108076206,True
+global_environmental_screening_sample,Bio6,20000,0.6523861907735375,2.8767556796011027,True
+global_environmental_screening_sample,Bio14,20000,0.44012558633718313,1.786114842180032,True
+global_environmental_screening_sample,Bio18,20000,0.5015358405188597,2.006162290666829,True
+global_environmental_screening_sample,Elv,20000,0.42748007831453994,1.7466641109292187,True

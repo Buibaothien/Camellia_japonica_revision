@@ -1,0 +1,9 @@
+﻿parameter,value
+Earth_Engine_project,project-71a05c44-154c-4b45-89d
+WorldCover_asset,ESA/WorldCover/v200/2021
+WorldCover_year,2021
+WorldCover_resolution_m,10
+batch_size,100
+buffer_definition,lulc_buffer_m from Step 01: reported uncertainty clipped to 100–1000 m; 250 m where uncertainty was not reported
+strict_screen,centre=Tree/Shrub; tree+shrub>=0.50; cropland<=0.20; built-up<=0.05; permanent water<=0.10
+broad_screen,tree+shrub>=0.50; cropland<=0.30; built-up<=0.10; permanent water<=0.15

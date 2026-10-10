@@ -1,0 +1,10 @@
+﻿parameter,value
+background_domain,"Global valid environmental domain: cells with finite, non-NoData values in Bio2, Bio6, Bio14, Bio18, and Elv"
+sampling_design,Area-weighted random sampling on geographic raster grid; row selection proportional to cos(latitude)
+requested_background_points,10000
+retained_background_points,10000
+random_seed,20260704
+reference_raster,E:\PREDICTION TREE\Camellia_japonica\model_inputs\Primary_Global_ClimateTopo_Current\Bio2.tif
+selected_predictors,Bio2; Bio6; Bio14; Bio18; Elv
+cell_deduplication,One background point per reference raster cell
+inference_scope,Global potential climatic suitability

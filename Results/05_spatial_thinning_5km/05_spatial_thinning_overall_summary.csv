@@ -1,0 +1,5 @@
+﻿stage,n_records
+strict_natural_landcover_input,1555
+after_5km_global_spatial_thinning,828
+after_reference_raster_validity_check,828
+after_one_record_per_reference_raster_cell,828

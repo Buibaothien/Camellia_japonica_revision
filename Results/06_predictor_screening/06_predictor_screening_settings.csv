@@ -1,0 +1,11 @@
+﻿parameter,value
+final_occurrence_dataset,Strict global natural-land-cover candidates after 5 km thinning
+n_final_occurrences,828
+primary_predictors,Bio1; Bio2; Bio3; Bio4; Bio5; Bio6; Bio7; Bio8; Bio9; Bio10; Bio11; Bio12; Bio13; Bio14; Bio15; Bio16; Bio17; Bio18; Bio19; Elv
+primary_predictor_count,20
+excluded_predictor_policy,"Soil moisture, NPP, runoff, soil carbon, soil pH, and UV layers were excluded from the primary future-transfer model because scenario-matched future layers are absent."
+global_screening_sample_size_requested,20000
+global_screening_sample_size_complete,20000
+global_screening_sample_seed,20260703
+pearson_correlation_threshold,0.8
+reference_raster,E:\PREDICTION TREE\Camellia_japonica\environmental_current\Bio1.tif

@@ -1,0 +1,9 @@
+﻿metric,value
+selected_predictor_count,5
+maximum_VIF_occurrence_records,1.7367356515733927
+maximum_VIF_global_screening_sample,2.8767556796011027
+maximum_abs_Pearson_r_occurrence_records,0.5260169667938753
+maximum_abs_Pearson_r_global_screening_sample,0.629117285821016
+all_VIF_below_5,True
+all_pairwise_abs_r_below_080,True
+current_model_input_folder,E:\PREDICTION TREE\Camellia_japonica\model_inputs\Primary_Global_ClimateTopo_Current

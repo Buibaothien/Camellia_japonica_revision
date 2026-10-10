@@ -1,0 +1,5 @@
+The primary global model uses Bio2, Bio6, Bio14, Bio18, and elevation.
+The selected set was chosen after correlation screening of occurrence and global environmental samples.
+VIF is calculated separately for the occurrence and global screening datasets.
+The model does not use static soil moisture, NPP, annual runoff, soil chemistry, or UV layers because matched future scenario layers were not included.
+Current rasters were copied to a clean model-input folder with canonical names.

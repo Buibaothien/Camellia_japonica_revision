@@ -1,0 +1,4 @@
+A minimum 5 km great-circle separation was applied globally.
+The largest retained set across 100 random-greedy replicates was selected using a fixed seed.
+A second control retained only one record per valid cell of the 2.5 arc-minute reference environmental raster.
+The final dataset should be called global natural-land-cover occurrence candidates, not confirmed wild occurrences.

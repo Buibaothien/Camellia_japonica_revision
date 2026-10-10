@@ -1,0 +1,10 @@
+﻿parameter,value
+occurrence_dataset,Strict global natural-land-cover candidates after 5 km thinning
+global_screening_dataset,"20,000 global terrestrial environmental screening cells"
+selected_predictors,Bio2; Bio6; Bio14; Bio18; Elv
+VIF_threshold,5.0
+pairwise_correlation_threshold,0.8
+old_M_restricted_dataset_used,No
+soil_moisture_used,No
+UV_used,No
+NPP_or_runoff_used,No

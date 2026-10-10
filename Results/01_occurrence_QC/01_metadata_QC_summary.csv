@@ -1,0 +1,11 @@
+﻿stage,n_records
+raw_input,8891
+target_taxon,8891
+valid_coordinates,8891
+reported_uncertainty_le_5km_or_missing,6675
+no_fatal_GBIF_issue,6675
+no_declared_geospatial_issue,6675
+no_cultivation_or_exsitu_metadata,5705
+acceptable_basisOfRecord,5655
+unique_exact_coordinate,3508
+metadata_QC_candidates,3508

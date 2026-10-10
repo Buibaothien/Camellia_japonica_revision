@@ -1,0 +1,6 @@
+﻿parameter,value
+primary_dataset,Strict global natural-land-cover occurrence candidates
+primary_LULC_rule,Central pixel is Tree cover or Shrubland; Tree+Shrub fraction >= 0.50; Cropland <= 0.20; Built-up <= 0.05; Permanent water <= 0.10
+broad_sensitivity_rule,Tree+Shrub fraction >= 0.50; Cropland <= 0.30; Built-up <= 0.10; Permanent water <= 0.15
+interpretation,Natural-land-cover context candidate only; not confirmed wild occurrence
+next_step,Spatial thinning at 5 km and removal of repeated 2.5 arc-minute raster cells

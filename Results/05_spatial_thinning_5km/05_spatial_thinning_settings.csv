@@ -1,0 +1,11 @@
+﻿parameter,value
+input_dataset,Strict global natural-land-cover occurrence candidates
+minimum_distance_km,5.0
+distance_method,Great-circle haversine distance
+random_greedy_replicates,100
+random_seed,20260702
+selected_replicate,7
+reference_raster,E:\PREDICTION TREE\Camellia_japonica\environmental_current\Bio1.tif
+reference_raster_resolution,"Reference raster native resolution, expected 2.5 arc-minute"
+grid_cell_deduplication,One retained record per valid reference raster cell
+final_dataset_interpretation,Global natural-land-cover occurrence candidates after 5 km thinning and environmental-cell deduplication

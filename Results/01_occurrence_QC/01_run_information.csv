@@ -1,0 +1,8 @@
+﻿parameter,value
+input_file,E:\PREDICTION TREE\Camellia_japonica\data\0074456-251120083545085.csv
+target_species,Camellia japonica
+coordinate_uncertainty_cutoff_m,5000.0
+geographic_filter,Global; no native-range or M restriction
+cultivation_metadata_filter,Applied in this script
+LULC_filter,Not yet applied; next stage
+spatial_thinning,Not yet applied; later stage at 5 km

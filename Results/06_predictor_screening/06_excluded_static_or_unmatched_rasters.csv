@@ -1,0 +1,10 @@
+﻿raster_file,detected_code,status,reason
+E:\PREDICTION TREE\Camellia_japonica\environmental_current\amuv.tif,AmUV,excluded_from_primary_model,Annual mean UV-B excluded because no matched future projection is used
+E:\PREDICTION TREE\Camellia_japonica\environmental_current\ar.tif,Ar,excluded_from_primary_model,Annual runoff excluded because no matched future projection is used
+E:\PREDICTION TREE\Camellia_japonica\environmental_current\highuv.tif,HighUV,excluded_from_primary_model,Maximum UV-B excluded because no matched future projection is used
+E:\PREDICTION TREE\Camellia_japonica\environmental_current\lowuv.tif,LowUV,excluded_from_primary_model,Minimum UV-B excluded because no matched future projection is used
+E:\PREDICTION TREE\Camellia_japonica\environmental_current\npp.tif,Npp,excluded_from_primary_model,Net primary productivity excluded because no matched future projection is used
+E:\PREDICTION TREE\Camellia_japonica\environmental_current\seauv.tif,SeaUV,excluded_from_primary_model,UV-B seasonality excluded because no matched future projection is used
+E:\PREDICTION TREE\Camellia_japonica\environmental_current\sm.tif,Sm,excluded_from_primary_model,Static soil moisture excluded from the primary future-transfer model
+E:\PREDICTION TREE\Camellia_japonica\environmental_current\soc.tif,Soc,excluded_from_primary_model,Soil organic carbon excluded because no matched future projection is used
+E:\PREDICTION TREE\Camellia_japonica\environmental_current\sph.tif,Sph,excluded_from_primary_model,Soil pH excluded because no matched future projection is used

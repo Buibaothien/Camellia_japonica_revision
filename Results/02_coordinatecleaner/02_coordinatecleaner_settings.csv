@@ -1,0 +1,11 @@
+parameter,value
+input_csv,E:/PREDICTION TREE/Camellia_japonica/global_reanalysis_outputs/01_occurrence_QC/01_metadata_QC_candidates.csv
+tests_applied,capitals; centroids; equal; gbif; institutions; zeros
+sea_test,Not applied
+outlier_test,Not applied
+urban_test,Not applied
+capital_radius_m,10000
+centroid_radius_m,1000
+institution_radius_m,100
+zero_radius_degrees,0.5
+CoordinateCleaner_version,3.0.1

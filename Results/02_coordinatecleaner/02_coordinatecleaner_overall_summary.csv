@@ -1,0 +1,4 @@
+stage,n_records
+Step_01_metadata_QC_candidates,3508
+CoordinateCleaner_retained,3429
+CoordinateCleaner_removed,79

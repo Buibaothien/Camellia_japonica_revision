@@ -1,0 +1,6 @@
+﻿predictor,source_raster,destination_raster,width,height,CRS,resolution_x,resolution_y,nodata
+Bio2,E:\PREDICTION TREE\Camellia_japonica\environmental_current\bio2.tif,E:\PREDICTION TREE\Camellia_japonica\model_inputs\Primary_Global_ClimateTopo_Current\Bio2.tif,8640,4320,EPSG:4326,0.041666666666666664,0.041666666666666664,
+Bio6,E:\PREDICTION TREE\Camellia_japonica\environmental_current\bio6.tif,E:\PREDICTION TREE\Camellia_japonica\model_inputs\Primary_Global_ClimateTopo_Current\Bio6.tif,8640,4320,EPSG:4326,0.041666666666666664,0.041666666666666664,
+Bio14,E:\PREDICTION TREE\Camellia_japonica\environmental_current\bio14.tif,E:\PREDICTION TREE\Camellia_japonica\model_inputs\Primary_Global_ClimateTopo_Current\Bio14.tif,8640,4320,EPSG:4326,0.041666666666666664,0.041666666666666664,-2147483648.0
+Bio18,E:\PREDICTION TREE\Camellia_japonica\environmental_current\bio18.tif,E:\PREDICTION TREE\Camellia_japonica\model_inputs\Primary_Global_ClimateTopo_Current\Bio18.tif,8640,4320,EPSG:4326,0.041666666666666664,0.041666666666666664,-2147483648.0
+Elv,E:\PREDICTION TREE\Camellia_japonica\environmental_current\elv.tif,E:\PREDICTION TREE\Camellia_japonica\model_inputs\Primary_Global_ClimateTopo_Current\Elv.tif,8640,4320,EPSG:4326,0.041666666666666664,0.041666666666666664,-2147483648.0

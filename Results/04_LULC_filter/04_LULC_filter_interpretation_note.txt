@@ -1,0 +1,4 @@
+The primary occurrence dataset contains strict global natural-land-cover context candidates.
+The LULC procedure does not prove that all retained occurrences are wild populations.
+The broad candidate set is retained for a supplementary sensitivity analysis.
+The primary dataset must next undergo 5 km spatial thinning and raster-cell deduplication.

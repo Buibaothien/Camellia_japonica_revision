@@ -1,0 +1,4 @@
+The primary global model uses an area-weighted random background from the valid global environmental domain.
+The background is not restricted to an accessible-area M because the study's inference domain is global potential climatic suitability.
+Sampling is area-weighted to avoid a high-latitude bias caused by equal-angle WGS84 raster cells.
+The resulting 10,000 points will be used consistently for ENMeval tuning and final model calibration.
